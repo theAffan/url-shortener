@@ -1,13 +1,13 @@
 This is a simple URL shortener application built using HTML, CSS, and JavaScript. 
 It allows users to input a long URL and generate a shorter, more manageable URL that redirects to the original link.
 
-Features
+Features:-
 Shortens long URLs into shorter, more manageable links.
 Generates a unique short URL for each long URL.
 Redirects users to the original link when they visit the short URL.
 Easy to use and minimalistic user interface.
 
-Usage
+Usage:-
 Enter a long URL into the input field.
 Click the "Short It" button.
 The generated short URL will be displayed below the input field.
