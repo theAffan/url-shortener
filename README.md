@@ -13,3 +13,6 @@ Click the "Short It" button.
 The generated short URL will be displayed below the input field.
 Click the "Copy" button to copy the short URL to the clipboard.
 Share the short URL with others or use it to access the original link directly.
+
+![Url Shortner](https://github.com/theAffan/url-shortener/assets/94933585/bdca876b-20e5-4d80-8dd0-96736f06aaec)
+
